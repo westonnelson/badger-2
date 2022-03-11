@@ -23,8 +23,5 @@
             "pre-commit": "yarn lint:fix",
             "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
         }
-    },
-    "dependencies": {
-        "ganache": "^7.0.3"
     }
 }
